@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RegistrationPage</string>
+    <string name="registration_successful">Registration Successful</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="name_hint">Please enter your details below</string>
+    <string name="name">Name</string>
+    <string name="input_hint">Enter your name here</string>
+    <string name="Dob">Birthdate</string>
+    <string name="yr">Year</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="email">Email Address</string>
+    <string name="email_hint">Enter your email address here</string>
+    <string name="sbmit">Submit</string>
+    <string name="col1">Name</string>
+    <string name="col2">Birthday</string>
+    <string name="col3">Email</string>
+    <string name="row1">Dname</string>
+    <string name="row2">Dday</string>
+    <string name="row3">DEmail</string>
+</resources>
